@@ -29,11 +29,11 @@
 ---
 
 ## 📌 Tabela de Conteúdos
-- [📖 Sobre o Projeto](#📖-sobre-o-projeto)
-  - [⚙️ Funcionalidades](#⚙️-funcionalidades)
-  - [📐 Diagrama de Classes](#📐-diagrama-de-classes)
-  - [🛠 Tecnologias](#🛠-tecnologias)
-  - [👨‍💻 Autor](#👨‍💻-autor)
+- [📖 Sobre o Projeto](#sobre-o-projeto)
+  - [⚙️ Funcionalidades](#funcionalidades)
+  - [📐 Diagrama de Classes](#diagrama-de-classes)
+  - [🛠 Tecnologias](#tecnologias)
+  - [👨‍💻 Autor](#autor)
 
 ---
 
