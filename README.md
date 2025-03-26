@@ -29,11 +29,11 @@
 ---
 
 ## 📌 Tabela de Conteúdos
-- [📖 Sobre o Projeto](#sobre-o-projeto)
-  - [⚙️ Funcionalidades](#funcionalidades)
-  - [📐 Diagrama de Classes](#diagrama-de-classes)
-  - [🛠 Tecnologias](#tecnologias)
-  - [👨‍💻 Autor](#autor)
+- [📖 Sobre o Projeto](#📖-sobre-o-projeto)
+  - [⚙️ Funcionalidades](#⚙️-funcionalidades)
+  - [📐 Diagrama de Classes](#📐-diagrama-de-classes)
+  - [🛠 Tecnologias](#🛠-tecnologias)
+  - [👨‍💻 Autor](#👨‍💻-autor)
 
 ---
 
@@ -101,7 +101,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
   
-## 🦸 Autores
+## 🦸 Autor
 <a>
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/131410501?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
